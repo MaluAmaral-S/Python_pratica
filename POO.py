@@ -18,7 +18,7 @@ class Escola:
 # Adicionando os alunos à escola
 aluno1 = Aluno('Malu', 19)  # Corrigindo o nome do aluno
 aluno2 = Aluno('Marcos', 18)  # Corrigindo o nome do aluno
-escola = Escola('Escola KKKK', 'Jardim América')  # Corrigindo o nome da escola
+escola = Escola('Escola AB', 'Jardim América')  # Corrigindo o nome da escola
 escola.adicionarAluno(aluno1)  # Adicionando aluno1 à escola
 escola.adicionarAluno(aluno2)  # Adicionando aluno2 à escola
 
